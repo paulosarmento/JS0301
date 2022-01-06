@@ -2,7 +2,7 @@ import "./main";
 import "./calendar";
 import "./auth";
 import "./schedulesTimeOptions";
-import "./schedulesServices";
+// import "./array";
 
 let curso: string = "JS Developer";
 
